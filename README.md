@@ -1,6 +1,6 @@
 # Scraping Lab Blog
 
-This blog is built using the static site generator provided by [Hugo](https://gohugo.io/getting-started/quick-start/).
+This blog is built using the static site generator provided by [Hugo](https://gohugo.io/getting-started/quick-start/) and the theme [Axiom](https://github.com/marketempower/axiom).
 
 ### Deployment on GitHub Pages
 
