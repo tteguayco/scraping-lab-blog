@@ -1,4 +1,5 @@
 baseURL = "http://tteguayco.github.io/scraping-lab-blog"
 languageCode = "en-us"
 title = "Scraping Lab"
+theme = "axiom"
 publishDir = "docs"
