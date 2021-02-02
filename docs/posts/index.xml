@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Feb 2021 13:00:00 +0000</lastBuildDate><atom:link href="http://tteguayco.github.io/scraping-lab-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Idea</title>
-      <link>http://tteguayco.github.io/scraping-lab-blog/posts/idea/</link>
+      <title>This is the idea... and coding begins!</title>
+      <link>http://tteguayco.github.io/scraping-lab-blog/posts/1/</link>
       <pubDate>Tue, 02 Feb 2021 13:00:00 +0000</pubDate>
       
-      <guid>http://tteguayco.github.io/scraping-lab-blog/posts/idea/</guid>
-      <description>And go&amp;hellip;</description>
+      <guid>http://tteguayco.github.io/scraping-lab-blog/posts/1/</guid>
+      <description>Introduction The idea behind Scraping Lab is quite simple: a desktop app with a powerful user interface made with Electron aimed to serve as an aide tool for developers, in order to help them build their web scrapers faster for the Scrapy framework (also known as spiders). From the Scraping Lab UI, at the same time the user tests their assumptions regarding requests and selectors to extract data, the code for their spider will be generating behind the scenes (just copy and paste when you are done!</description>
     </item>
     
   </channel>

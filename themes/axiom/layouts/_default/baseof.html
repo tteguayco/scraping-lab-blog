@@ -29,6 +29,12 @@
   {{- partial "google-analytics" . }}
 </head>
 <body>
+  <style>
+    ul {
+      margin-top: 10px !important;
+    }
+  </style>
+
   {{- partial "google-tag-manager-body" . }}
   {{ partial "header" . }}
   <main>
