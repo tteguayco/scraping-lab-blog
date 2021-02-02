@@ -1,6 +1,6 @@
 {{- $image := partial "svg/avatar.svg" (dict) | base64Encode -}}
 {{- $image = printf "%s%s" "data:image/svg+xml;base64," $image | safeURL -}}
-{{- $data := (dict "default" (dict "name" "Unknown" "uri" "#" "email" "#" "twitter" "#" "image" $image)) -}}
+{{- $data := (dict "default" (dict "name" "Teguayco Gutiérrez González" "uri" "www.linkedin.com/in/teguayco" "email" "tteguayco@gmail.com" "twitter" "#" "image" $image)) -}}
 {{- with .Site.Data.author }}
 {{- $data = . -}}
 {{- end }}
