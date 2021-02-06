@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tteguayco.github.io/scraping-lab-blog/posts/</loc>
-    <lastmod>2021-02-02T13:00:00Z</lastmod>
+    <lastmod>2021-02-06T17:00:00Z</lastmod>
   </url>
   <url>
     <loc>http://tteguayco.github.io/scraping-lab-blog/</loc>
-    <lastmod>2021-02-02T13:00:00Z</lastmod>
+    <lastmod>2021-02-06T17:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://tteguayco.github.io/scraping-lab-blog/posts/2/</loc>
+    <lastmod>2021-02-06T17:00:00Z</lastmod>
   </url>
   <url>
     <loc>http://tteguayco.github.io/scraping-lab-blog/posts/1/</loc>
