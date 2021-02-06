@@ -4,3 +4,4 @@ title = "Scraping Lab"
 theme = "axiom"
 publishDir = "docs"
 author = "Teguayco Gutiérrez González"
+enableEmoji = true
